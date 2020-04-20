@@ -1,0 +1,4 @@
+# Final-Project-Team-11
+When thinking of what qualifies a neighborhood in Pittsburgh as the 'best' one can't help but think of the neighborhood in which they picture themselves living in. Hence why our team, Team HGTV, used metrics that would affect our desire to want to live in said neighborhood.
+
+Tegan Lapp (TEL30): When I think of a good neighborhood to live in, I think of a safe neighborhood, or one in which crime rates are low. Thus, for my metric, I scanned police report data from the last 30 days, counting how many criminal incidents took place in each neighborhood. For my visualizations, I then created a map of Pittsburgh, hilighting the neighborhoods with more criminal activity in darker reds. I then created a horziontal bar graoh to show the specific numbers of each neighborhood.
